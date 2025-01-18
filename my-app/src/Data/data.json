@@ -1,0 +1,139 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Banana Queen",
+        "description": "Our fab collab with Nymphia Wind features sweet banana puree, decadent vanilla bean, and fresh brewed marigold flowers. Banana cream for the Banana Queen is a toast to Asian heritage and a celebration of this iconic yellow fruit.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Peach_1_1080x.png?v=1714540243",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Peach_1_1080x.png?v=1714540243",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Marigold (Filtered Water, Marigold Flowers), Banana Puree, Agave Nectar, Jerusalem Artichoke, Lime Juice, Mango Puree, Banana Cream Flavor, Chicory Root Inulin, Vanilla Extract, Alaea Sea Salt, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 2,
+        "name": "Raspberry Lychee",
+        "description": "Jammy raspberry puree, juicy lychees, and fresh brewed honeysuckle flowers reminiscent of your favorite gummy treats.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Raspberry_1_1080x.png?v=1714540347",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Raspberry_1_1080x.png?v=1714540347",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Honeysuckle (Filtered Water, Honeysuckle Flowers), Raspberry Puree, Agave Nectar, Lychee Juice, Jerusalem Artichoke, Lemon Juice, Raspberry Flavor, Chicory Root Inulin, Lychee Flavor, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 3,
+        "name": "Strawberry Passion",
+        "description": "Ripe strawberries and tart passion fruit meet freshly brewed hibiscus flowers for a sweet and tropical refresher.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Strawberry_1_1080x.png?v=1714540479",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Strawberry_1_1080x.png?v=1714540479",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Hibiscus (Filtered Water, Hibiscus Flowers), Strawberry Juice, Passion Fruit Juice, Agave Nectar, Jerusalem Artichoke, Strawberry Flavor, Chicory Root Inulin, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 4,
+        "name": "Guava Rose",
+        "description": "Tropical pink guava, freshly brewed rose petals, and soothing elderberry for a fruity and floral pink drink.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Guava_1_720x.png?v=1714539969",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Guava_1_720x.png?v=1714539969",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Rose Petals (Filtered Water, Rose Petals), Guava Puree, Agave Nectar, Lemon Juice, Jerusalem Artichoke, Rose Flavor, Chicory Root Inulin, Guava Flavor, Elderberry Juice Concentrate, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 5,
+        "name": "Pineapple Paradise",
+        "description": "Sun-kissed pineapple, zesty lime, and citrusy tangerine juice for a poolside getaway in a can. A light twist of Sichuan peppercorn rounds out this tropical flavor with a warm hint of spice.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Pineapple_1_green_720x.png?v=1722475205",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Pineapple_1_green_720x.png?v=1722475205",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Filtered Water, Pineapple Juice, Lime Juice, Agave Nectar, Jerusalem Artichoke Inulin, Passion Fruit Juice, Tangerine Juice Concentrate, Pineapple Flavor, Chicory Root Inulin, Sichuan Peppercorn Extract, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 6,
+        "name": "Mango Gold",
+        "description": "Sweet sun-ripened mangos balanced with fresh brewed turmeric root and tart passion fruit in this tropical refresher.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Mango_1_720x.png?v=1714540147",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Mango_1_720x.png?v=1714540147",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Turmeric (Filtered Water, Turmeric Root), Mango Puree, Passion Fruit Juice, Agave Nectar, Jerusalem Artichoke, Chicory Root Inulin, Mango Flavor, Monk Fruit Extract, Live Probiotics (Bacillus subtilis), Black Pepper"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 7,
+        "name": "Peach Ginger",
+        "description": "Succulent peach and freshly brewed ginger root make this twist on sweet peach tea irresistible.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Peach_1_720x.png?v=1714540243",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Peach_1_720x.png?v=1714540243",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Ginger (Filtered Water, Ginger Root), Peach Puree, Agave Nectar, Lemon Juice, Jerusalem Artichoke, Ginger Juice, Peach Flavor, Chicory Root Inulin, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 8,
+        "name": "Strawberry Passion",
+        "description": "Ripe strawberries and tart passion fruit meet freshly brewed hibiscus flowers for a sweet and tropical refresher.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Strawberry_1_1080x.png?v=1714540479",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Strawberry_1_1080x.png?v=1714540479",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Hibiscus (Filtered Water, Hibiscus Flowers), Strawberry Juice, Passion Fruit Juice, Agave Nectar, Jerusalem Artichoke, Strawberry Flavor, Chicory Root Inulin, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 9,
+        "name": "Mango Gold",
+        "description": "Sweet sun-ripened mangos balanced with fresh brewed turmeric root and tart passion fruit in this tropical refresher.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Mango_1_720x.png?v=1714540147",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Mango_1_720x.png?v=1714540147",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Turmeric (Filtered Water, Turmeric Root), Mango Puree, Passion Fruit Juice, Agave Nectar, Jerusalem Artichoke, Chicory Root Inulin, Mango Flavor, Monk Fruit Extract, Live Probiotics (Bacillus subtilis), Black Pepper"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      },
+      {
+        "id": 10,
+        "name": "Guava Rose",
+        "description": "Tropical pink guava, freshly brewed rose petals, and soothing elderberry for a fruity and floral pink drink.",
+        "mainImage": "https://drinkwildwonder.com/cdn/shop/files/Guava_1_720x.png?v=1714539969",
+        "variantImage": "https://drinkwildwonder.com/cdn/shop/files/Guava_1_720x.png?v=1714539969",
+        "price": { "one-time": 3866.69, "subscribe": 3286.68 },
+        "benefits": ["Certified Organic", "1 Billion Probiotics", "5g Dietary Fiber", "6g Sugar", "GMO Free", "Vegan"],
+        "ingredients": [
+          "Fresh Brewed Rose Petals (Filtered Water, Rose Petals), Guava Puree, Agave Nectar, Lemon Juice, Jerusalem Artichoke, Rose Flavor, Chicory Root Inulin, Guava Flavor, Elderberry Juice Concentrate, Monk Fruit Extract, Live Probiotics (Bacillus subtilis)"
+        ],
+        "nutritionFacts": ["Calories: 50", "Sugar: 5g", "Protein: 0g"]
+      }
+    ],
+    "sliderItems": [
+      { "image": "/images/guava-rose.png", "title": "Guava Rose" },
+      { "image": "/images/banana-queen.png", "title": "Banana Queen" },
+      { "image": "/images/strawberry-passion.png", "title": "Strawberry Passion" }
+    ]
+  }
