@@ -21,14 +21,14 @@ const Header = () => {
   ];
 
   return (
-    <div className="w-full relative">
+    <div className="w-full fixed z-50">
       {/* Cyber Monday Banner */}
       <div className="w-full bg-[#1e2875] text-white text-center py-2 text-sm">
         CYBER MONDAY FREE REUSABLE TOTE WITH EVERY ORDER
       </div>
 
       {/* Main Header */}
-      <header className="bg-[#fdf6f0] px-4 lg:px-8 py-4">
+      <header className="bg-custom-orange px-4 lg:px-8 py-4 ">
         <div className="max-w-full mx-auto">
           <div className="flex items-center justify-between">
             {/* Mobile Menu Button */}

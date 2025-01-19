@@ -35,9 +35,9 @@ const PeachGingerDetails = () => {
   ];
 
   return (
-    <section className="bg-custom-blue py-16">
+    <section className="bg-custom-blue py-24">
       <div className="text-center mb-12">
-        <h1 className="text-3xl font-bold text-blue-900">
+        <h1 className="text-4xl font-bold text-blue-900">
           A Peek Inside Peach Ginger
         </h1>
       </div>
